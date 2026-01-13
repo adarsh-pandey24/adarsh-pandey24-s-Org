@@ -1,0 +1,7 @@
+{
+  "name": "ClauseX - Smart Loan Intelligence",
+  "description": "A sophisticated fintech dashboard that extracts, analyzes, and visualizes loan terms from digital documents, helping borrowers and banks understand repayment schedules, interest rates, and risk profiles at a glance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
